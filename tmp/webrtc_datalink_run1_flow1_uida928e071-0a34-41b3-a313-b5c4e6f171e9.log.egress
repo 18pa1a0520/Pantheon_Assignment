@@ -1,0 +1,5 @@
+# 'mm-tunnelclient' '--ingress-log=/home/cherry/Desktop/pantheon/tmp/webrtc_acklink_run1_flow1_uida928e071-0a34-41b3-a313-b5c4e6f171e9.log.ingress' '--egress-log=/home/cherry/Desktop/pantheon/tmp/webrtc_datalink_run1_flow1_uida928e071-0a34-41b3-a313-b5c4e6f171e9.log.egress' '10.0.0.1' '33693' '100.64.0.2' '100.64.0.1' egress: 1744934253979.668
+7801.673 - 0 - 76
+7849.567 - 1 - 76
+7849.586 - 2 - 76
+7885.209 - 3 - 76

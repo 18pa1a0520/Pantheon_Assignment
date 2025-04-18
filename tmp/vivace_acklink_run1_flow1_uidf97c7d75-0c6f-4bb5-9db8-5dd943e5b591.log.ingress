@@ -1,0 +1,1 @@
+# 'mm-tunnelclient' '--ingress-log=/home/cherry/Desktop/pantheon/tmp/vivace_acklink_run1_flow1_uidf97c7d75-0c6f-4bb5-9db8-5dd943e5b591.log.ingress' '--egress-log=/home/cherry/Desktop/pantheon/tmp/vivace_datalink_run1_flow1_uidf97c7d75-0c6f-4bb5-9db8-5dd943e5b591.log.egress' '10.0.0.1' '56961' '100.64.0.2' '100.64.0.1' ingress: 1744933983902.665

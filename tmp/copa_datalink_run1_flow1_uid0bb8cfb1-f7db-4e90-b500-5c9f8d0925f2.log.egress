@@ -1,0 +1,1 @@
+# 'mm-tunnelclient' '--ingress-log=/home/cherry/Desktop/pantheon/tmp/copa_acklink_run1_flow1_uid0bb8cfb1-f7db-4e90-b500-5c9f8d0925f2.log.ingress' '--egress-log=/home/cherry/Desktop/pantheon/tmp/copa_datalink_run1_flow1_uid0bb8cfb1-f7db-4e90-b500-5c9f8d0925f2.log.egress' '10.0.0.1' '34282' '100.64.0.2' '100.64.0.1' egress: 1744933815851.282

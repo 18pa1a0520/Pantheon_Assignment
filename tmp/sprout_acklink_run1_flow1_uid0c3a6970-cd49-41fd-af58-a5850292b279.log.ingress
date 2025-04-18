@@ -1,0 +1,1 @@
+# 'mm-tunnelclient' '--ingress-log=/home/cherry/Desktop/pantheon/tmp/sprout_acklink_run1_flow1_uid0c3a6970-cd49-41fd-af58-a5850292b279.log.ingress' '--egress-log=/home/cherry/Desktop/pantheon/tmp/sprout_datalink_run1_flow1_uid0c3a6970-cd49-41fd-af58-a5850292b279.log.egress' '10.0.0.1' '36859' '100.64.0.2' '100.64.0.1' ingress: 1744933950481.462

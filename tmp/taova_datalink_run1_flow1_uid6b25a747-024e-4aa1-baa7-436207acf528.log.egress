@@ -1,0 +1,1 @@
+# 'mm-tunnelclient' '--ingress-log=/home/cherry/Desktop/pantheon/tmp/taova_acklink_run1_flow1_uid6b25a747-024e-4aa1-baa7-436207acf528.log.ingress' '--egress-log=/home/cherry/Desktop/pantheon/tmp/taova_datalink_run1_flow1_uid6b25a747-024e-4aa1-baa7-436207acf528.log.egress' '10.0.0.1' '58486' '100.64.0.2' '100.64.0.1' egress: 1744934085681.313
