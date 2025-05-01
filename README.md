@@ -5,7 +5,7 @@ This project evaluates the performance of three TCP congestion control algorithm
 
 ---
 
-## 📌 Experiment Overview
+## Experiment Overview
 
 **Algorithms Compared**
 - Cubic
@@ -28,7 +28,7 @@ This project evaluates the performance of three TCP congestion control algorithm
 
 ---
 
-## ⚙️ Test Environment
+##  Test Environment
 
 - **Host OS**: macOS  
 - **Guest OS**: Ubuntu 24.04 LTS (via UTM VM)  
@@ -37,7 +37,7 @@ This project evaluates the performance of three TCP congestion control algorithm
 
 ---
 
-## 🛠 Installation Steps
+## Installation Steps
 
 ### 1. Clone Pantheon and Install Dependencies
 ```bash
@@ -66,7 +66,7 @@ sudo make install
 
 ---
 
-## 📂 Project Layout
+## Project Layout
 
 ```
 pantheon/
@@ -84,7 +84,7 @@ pantheon/
 
 ---
 
-## 🚀 Running Experiments
+##  Running Experiments
 
 ### Generate Network Traces
 
@@ -124,7 +124,7 @@ python src/experiments/test.py local \
 
 ---
 
-## 📊 Analyzing Results
+##  Analyzing Results
 
 ### Generate Reports
 ```bash
@@ -134,7 +134,7 @@ python ./src/analysis/analyze.py --data-dir output/HighLatencyLowBandwidth
 
 ---
 
-## 📁 Outputs
+##  Outputs
 
 - **Logs**: `results/*/*.log`  
 - **Metadata**: `pantheon_perf.json`, `pantheon_metadata.json`  
@@ -142,7 +142,7 @@ python ./src/analysis/analyze.py --data-dir output/HighLatencyLowBandwidth
 
 ---
 
-## 📎 Notes
+## Notes
 
 - Make sure Python 2.7 is installed, as Pantheon is not compatible with Python 3.
 - It's recommended to run tests in a VM or containerized environment to avoid host network interference.
